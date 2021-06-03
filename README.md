@@ -45,7 +45,7 @@ npx react-native run-android
 
 # Usabilidade
 
-O AppBook é um cadastro de livros que utiliza banco de dados offline Realm. O cadastro permite incluir nome oe preço de um livro, editar, excluir e consultar.
+O AppBook é um cadastro de livros que utiliza banco de dados offline Realm. O cadastro permite incluir nome e preço de um livro além de editar, excluir e consultar os dados.
 
 O banco de dados local do Realm mantém os dados em disco, de modo que os aplicativos funcionam tão bem offline quanto online.
 
